@@ -39,10 +39,7 @@ p {
 }
 
 footer {
-    display: flex;
-    text-align: center;
     margin: 0 auto 33px;
-    height: 100vh;
 }
 
 footer a + a {
