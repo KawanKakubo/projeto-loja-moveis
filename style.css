@@ -31,7 +31,7 @@ span, a {
     color: #FF9900;
 }
 
-p, footer {
+p {
     color: #707987;
     font-size: 14px;
     line-height: 28px;
@@ -39,7 +39,10 @@ p, footer {
 }
 
 footer {
-    margin-bottom: 33px;
+    display: flex;
+    text-align: center;
+    margin: 0 auto 33px;
+    height: 100vh;
 }
 
 footer a + a {
