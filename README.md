@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto simples de um site para uma loja de móveis, desenvolvido como parte da minha participação no programa Explorer da Rocketseat. O projeto utiliza apenas HTML e CSS para criar uma página estática e básica, ideal para aprender e aplicar conceitos fundamentais de desenvolvimento web.
+Este é um projeto simples de um site para uma loja de móveis, desenvolvido como parte da minha participação no programa Explorer da Rocketseat. O projeto utiliza apenas HTML e CSS para criar uma página estática e básica, ideal para aprender e aplicar conceitos fundamentais de desenvolvimento web. Para acessá-lo, [clique aqui](https://kawankakubo.github.io/projeto-loja-moveis/).
 
 ## Funcionalidades
 
